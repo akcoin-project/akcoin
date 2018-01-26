@@ -1,0 +1,9 @@
+Building Akcoin
+
+See doc/readme-qt.rst for instructions on building Akcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Akcoin.
+
+See doc/build-*.txt for instructions on building akcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Akcoin.
